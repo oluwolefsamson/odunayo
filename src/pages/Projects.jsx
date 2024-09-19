@@ -121,7 +121,7 @@ function Projects() {
             subtitle="Korean Kitchen"
             link="https://github.com/oluwolefsamson/Korean-Kitchen"
           />
-          <Project title="Project 6" subtitle=" My Portfolio" link="" />
+          <Project title="Project 6" subtitle="" link="" />
           <motion.div
             variants={projectVariant}
             className="flex justify-center text-center items-center p-10 bg-yellow max-w-[600px] min-h-[200px] text-2xl font-playfair font-semibold"
